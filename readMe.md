@@ -7,7 +7,7 @@
 
 ## 🚀 Preview
 
-![Cosmic Calculator Screenshot](public\CosmicCalculatorSCRST.png)
+![Cosmic Calculator Screenshot](public/CosmicCalculatorSCRST.png)
 
 ---
 
